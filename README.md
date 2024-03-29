@@ -13,6 +13,25 @@
 
 - 📄 Know about my experiences [https://gowtham-prog.github.io/](https://gowtham-prog.github.io/)
 
+## Connect
+
+- Email: gowthamkumarvulluri@gmail.com
+- [LinkedIn](YourLinkedInLink)
+- [GitHub](YourGitHubLink)
+
+## Quick Facts
+
+- **Role:** Full Stack Engineer at LEVIT8 LABS
+- **Education:** B.Tech in CS&E, Gayatri Vidya Parishad College of Engineering
+- **Skills:** Django, React, TailwindCSS, GitHub, Shopify
+- **Projects:** tryonlabs.ai, Online Medical Appointments, E-Commerce Platform, Secure Notes Manager
+
+## Achievements
+
+- Developed tryonlabs.ai & Shopify app enhancing e-commerce through AI-driven virtual try-ons.
+- Led backend ML integration & frontend improvements with React and Shopify APIs.
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/gowtham_wick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gowtham_wick" height="30" width="40" /></a>
@@ -27,3 +46,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtham-prog&show_icons=true&locale=en&layout=compact" alt="gowtham-prog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowtham-prog&show_icons=true&locale=en" alt="gowtham-prog" /></p>
+
+Interested in tech? [Let's connect](mailto:gowthamkumarvulluri@gmail.com).
+
