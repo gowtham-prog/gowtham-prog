@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowtham-prog&show_icons=true&locale=en&layout=compact" alt="gowtham-prog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowtham-prog&show_icons=true&locale=en" alt="gowtham-prog" /></p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/@gowtham-prog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@gowtham-prog" /></a><a href="https://ko-fi.com/https://gowtham-prog.github.io/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://gowtham-prog.github.io/" /></a></p><br><br>
