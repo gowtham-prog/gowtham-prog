@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gowtham Kumar Vulluri</h1>
-<h3 align="center">A passionate student and programmer from India</h3>
+<h3 align="center">Full stack Engineer at Levit8Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-prog&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-prog" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowtham-prog" alt="gowtham-prog" /></a> </p>
 
-- 🌱 I’m currently learning **AI,Ml and**
-
 - 👨‍💻 All of my projects are available at [https://www.github.com/gowtham-prog](https://www.github.com/gowtham-prog)
 
-- 💬 Ask me about **Django, Datastructures and Algorithms**
+- 💬 Ask me about **Django, Django REST, ReactJs, Shopify**
 
 - 📫 How to reach me **gowthamkumarvulluri@gmail.com**
 
 - 📄 Know about my experiences [https://gowtham-prog.github.io/](https://gowtham-prog.github.io/)
-
-- ⚡ Fun fact **I'm a fan of kanye west**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
