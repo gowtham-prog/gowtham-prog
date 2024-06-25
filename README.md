@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham Kumar Vulluri</h1>
-<h3 align="center">Full stack Engineer at Levit8Labs</h3>
+<h3 align="center">Full stack Engineer at<a href="https://tryonlabs.ai/"> TryonLabs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-prog&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-prog" /> </p>
 
